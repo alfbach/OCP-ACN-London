@@ -3,7 +3,7 @@
 
 ## Agenda
 
-### Day 1 (12.09.2022)
+### Day 1 OpenShift Architecture (12.09.2022)
 
 9:30	Welcome
 
@@ -27,7 +27,7 @@
 
 17:15	End Day 1
 
-### Day 2 (13.09.2022)
+### Day 2 OpenShift Archtiecture (13.09.2022)
 
 9:00	OpenShift Virtualisation
 
@@ -52,3 +52,51 @@
 17:15	End Day 2
 
 HOMEWORK (Otional)            - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800091
+
+## Day 3 Open Hybrid Cloud Architecture (14.09.2022)
+
+9:00	Welcome
+
+9:15	Hybrid Cloud Intro
+
+10:00	Adv. Cluster Mgmt
+
+11:00	Break
+
+11:15	ACM Foundation P1   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+
+13:00	Lunch Break
+
+14:00	ACM Foundation P2   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599 
+
+16:00	BREAK
+
+16:45	ACM Foundation ASSESMENT -  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+
+17:15	End of the Day
+
+## Day 4 Open Hybrid Cloud Architecture (15.09.2022)
+
+9:00	Welcome and Conclude 
+
+9:15	OpenShift Data Foundation
+
+10:00	Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+
+11:00	BREAK
+
+11:00	High Availib. and Desater Recovery
+
+12:00	Red Hat Quay 
+
+13:00	BREAK
+
+14:00	Advanced Container Security OV
+
+14:30	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+
+16:30	Break
+
+16:45	Conclusion / Next Steps 
+
+17:15	End of the Day
