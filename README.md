@@ -1,6 +1,8 @@
-# OCP Architecture and Open Hybrid Cloud Workshop in Israel 2022
-### OpenShift and Hybrid Cloud Architecture Workshop for RH Partners in Israel
+# OCP Architecture and Open Hybrid Cloud Workshop 
+## Israel 2022
 
+### OpenShift and Hybrid Cloud Architecture Workshop for local RH Partners
+------------------------------------------------------------------------------------------------------------------------------
 ## Agenda
 
 ### Day 1 OpenShift Architecture (12.09.2022)
