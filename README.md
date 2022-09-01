@@ -29,9 +29,9 @@
 
 ### Day 2 (13.09.2022)
 
-9:00	OpenSHift Virtualisation
+9:00	OpenShift Virtualisation
 
-10:00	OpenShift I (DO180) P1  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+10:00	OpenShift I (DO180) P1  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
 
 11:00	Break
 
@@ -41,14 +41,14 @@
 
 13:00	Lunch Break
 
-14:00	OpenShift I (DO180) P2  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+14:00	OpenShift I (DO180) P2  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
 
 15:30	Break
 
-15:30	OpenShift I (DO180) P3  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+15:30	OpenShift I (DO180) P3  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
 
 16:45 OpenSHift I (DO180) assesment
 
 17:15	End Day 2
 
-HOMEWORK (Otional)            https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800091
+HOMEWORK (Otional)            - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800091
