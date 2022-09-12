@@ -17,7 +17,7 @@
 
 13:00	Lunch Break
 
-13:00	OpenSHift Foundation Part 2 - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D42415995
+13:00	OpenShift Foundation Part 2 - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D42415995
 
 14:30	Installation
 
