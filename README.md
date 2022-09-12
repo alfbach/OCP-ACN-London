@@ -3,6 +3,9 @@
 
 ### OpenShift and Hybrid Cloud Architecture Workshop for local RH Partners
 ------------------------------------------------------------------------------------------------------------------------------
+
+link to Google https://meet.google.com/efb-wtgs-fch
+
 ## Agenda
 
 ### Day 1 OpenShift Architecture (12.09.2022)
