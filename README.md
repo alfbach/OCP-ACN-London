@@ -68,15 +68,15 @@ HOMEWORK (Otional)            - https://training-lms.redhat.com/sso/saml/auth/rh
 
 11:00	Break
 
-11:15	ACM Foundation P1   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+11:15	ACM Foundation P1   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
 13:00	Lunch Break
 
-14:00	ACM Foundation P2   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599 
+14:00	ACM Foundation P2   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
 
 16:00	BREAK
 
-16:45	ACM Foundation ASSESMENT -  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+16:45	ACM Foundation ASSESMENT -  https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
 17:15	End of the Day
 
