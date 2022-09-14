@@ -4,7 +4,7 @@
 ### OpenShift and Hybrid Cloud Architecture Workshop for local RH Partners
 ------------------------------------------------------------------------------------------------------------------------------
 
-link to Google https://meet.google.com/qnc-mrye-ajz
+link to Google https://meet.google.com/zcc-hdjy-dhz
 
 ## Agenda
 
