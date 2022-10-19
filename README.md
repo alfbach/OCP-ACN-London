@@ -82,11 +82,11 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:00	BREAK
 
-11:00	High Availib. and Desater Recovery
+11:15	High Availib. and Desater Recovery
 
 12:00	Red Hat Quay 
 
-13:00	BREAK
+13:00	BREAK (deploy ACS https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286)
 
 14:00	Advanced Container Security OV
 
@@ -94,6 +94,6 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 16:30	Break
 
-16:45	Conclusion / Next Steps 
+16:45	Conclusion / Next Steps
 
 17:15	End of the Day
