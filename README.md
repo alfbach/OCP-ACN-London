@@ -8,7 +8,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 ## Agenda
 
-### Day 1 OpenShift Architecture (12.09.2022)
+### Day 1 OpenShift Architecture (07.11.2022)
 
 9:30	Welcome
 
@@ -28,7 +28,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 17:30	Final assesment
 
-### Day 2 OpenShift Archtiecture (13.09.2022)
+### Day 2 OpenShift Archtiecture (08.11.2022)
 
 9:00	OpenShift Virtualisation
 
@@ -36,21 +36,21 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:00	Break
 
-11:00	OpenShift Security
+11:15	OpenShift Security
 
 12:00	Cloud Native
 
 13:00	Lunch Break
 
-14:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
+14:00	Application Migration  
 
 15:30	Break
 
-15:30	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
+15:45	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
 17:30	OpenShift Administration II Assessment 
 
-## Day 3 Open Hybrid Cloud Architecture (14.09.2022)
+## Day 3 Open Hybrid Cloud Architecture (09.11.2022)
 
 9:00	Welcome
 
@@ -60,11 +60,11 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:00	Break
 
-11:15	ACM Foundation P1   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+11:15	GitOps & Argo CD
 
 13:00	Lunch Break
 
-14:00	ACM Foundation P2   - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
+14:00	ACM Foundation      - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
 
 16:00	BREAK
 
@@ -72,9 +72,9 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 17:15	End of the Day
 
-## Day 4 Open Hybrid Cloud Architecture (15.09.2022)
+## Day 4 Open Hybrid Cloud Architecture (10.11.2022)
 
-9:00	Welcome and Conclude 
+9:00	Welcome 
 
 9:15	OpenShift Data Foundation
 
