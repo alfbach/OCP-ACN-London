@@ -16,27 +16,23 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:45	Break
 
-12:00	OpenShift Foundation Part 1 - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D42415995 
+12:00	Tech deep dive Part 1 
 
 13:00	Lunch Break
 
-13:00	OpenShift Foundation Part 2 - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D42415995
-
-14:30	Installation
+13:00	Tech deep dive Part 2
 
 15:30	Break
 
-15:45	OpenShift Foundation Part 3 - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D42415995
+15:45	OpenShift I (DO180) P1  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
 
-16:45	Final assesment
-
-17:15	End Day 1
+17:30	Final assesment
 
 ### Day 2 OpenShift Archtiecture (13.09.2022)
 
 9:00	OpenShift Virtualisation
 
-10:00	OpenShift I (DO180) P1  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+10:00	Developer Overview
 
 11:00	Break
 
@@ -46,17 +42,13 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 13:00	Lunch Break
 
-14:00	OpenShift I (DO180) P2  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+14:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
 15:30	Break
 
-15:30	OpenShift I (DO180) P3  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+15:30	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
-16:45 OpenSHift I (DO180) assesment
-
-17:15	End Day 2
-
-HOMEWORK (Otional)            - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800091
+17:30	OpenShift Administration II Assessment 
 
 ## Day 3 Open Hybrid Cloud Architecture (14.09.2022)
 
