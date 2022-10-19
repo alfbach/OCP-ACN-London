@@ -38,11 +38,11 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:15	OpenShift Security
 
-12:00	Cloud Native
+12:45	OpenShift - CI CD & GitOps Overview
 
 13:00	Lunch Break
 
-14:00	Application Migration  
+14:00	Cloud Native  
 
 15:30	Break
 
