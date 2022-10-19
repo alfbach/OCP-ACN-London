@@ -50,7 +50,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 17:30	OpenShift Administration II Assessment 
 
-## Day 3 Open Hybrid Cloud Architecture (09.11.2022)
+### Day 3 Open Hybrid Cloud Architecture (09.11.2022)
 
 9:00	Welcome
 
@@ -72,7 +72,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 17:15	End of the Day
 
-## Day 4 Open Hybrid Cloud Architecture (10.11.2022)
+### Day 4 Open Hybrid Cloud Architecture (10.11.2022)
 
 9:00	Welcome 
 
