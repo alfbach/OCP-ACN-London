@@ -1,6 +1,6 @@
 # OCP Architecture and Open Hybrid Cloud Workshop 
-## Israel 2022
-
+## ATHENS 2022
+## Θερμό καλωσόρισμα
 ### OpenShift and Hybrid Cloud Architecture Workshop for local RH Partners
 ------------------------------------------------------------------------------------------------------------------------------
 
