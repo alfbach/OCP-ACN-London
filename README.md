@@ -12,7 +12,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 9:30	Welcome
 
-9:45	Architecture
+9:45	OpenShift Architecture
 
 11:45	Break
 
@@ -20,7 +20,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 13:00	Lunch Break
 
-13:00	Tech deep dive Part 2
+14:00	Tech deep dive Part 2
 
 15:30	Break
 
@@ -38,7 +38,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 
 11:15	OpenShift Security
 
-12:45	OpenShift - CI CD & GitOps Overview
+12:00	OpenShift - CI CD & GitOps Overview
 
 13:00	Lunch Break
 
