@@ -6,6 +6,8 @@
 
 link to Google https://meet.google.com/zcc-hdjy-dhz
 
+link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFcLHQd4BLtZCM/viewer?f=0
+
 ## Agenda
 
 ### Day 1 OpenShift Architecture (07.11.2022)
