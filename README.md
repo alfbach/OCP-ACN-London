@@ -26,7 +26,7 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 15:30	Break
 
-15:45	OpenShift I (DO180) P1  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800090
+15:45	OpenShift I (DO180) - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314150
 
 17:30	Final assesment
 
