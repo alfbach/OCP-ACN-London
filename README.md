@@ -9,7 +9,7 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 ## Agenda
 
-### Day 1 OpenShift Architecture (05.12.2022)
+### Day 1 OpenShift Architecture (5.12.2022)
 
 9:30	Welcome
 
@@ -31,7 +31,7 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 17:30	Final assesment
 
-### Day 2 OpenShift Archtiecture (08.11.2022)
+### Day 2 OpenShift Archtiecture (6.12.2022)
 
 9:00	OpenShift Virtualisation
 
@@ -53,7 +53,7 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 17:30	OpenShift Administration II Assessment 
 
-### Day 3 Open Hybrid Cloud Architecture (09.11.2022)
+### Day 3 Open Hybrid Cloud Architecture (7.12.2022)
 
 9:00	Welcome
 
@@ -75,17 +75,17 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 17:15	End of the Day
 
-### Day 4 Open Hybrid Cloud Architecture (10.11.2022)
+### Day 4 Open Hybrid Cloud Architecture (8.12.2022)
 
 9:00	Welcome 
 
 9:15	OpenShift Data Foundation
 
-10:00	Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+10:00 High Availibility and Desaster Recovery
 
 11:00	BREAK
 
-11:15	High Availib. and Desater Recovery
+11:15	Dev Hands-On: Deploy your own GrumpyCat game (Quarkus)
 
 12:00	Red Hat Quay 
 
@@ -100,3 +100,5 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 16:45	Conclusion / Next Steps
 
 17:15	End of the Day
+
+opt. Homework Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
