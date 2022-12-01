@@ -1,7 +1,6 @@
 # OCP Architecture and Open Hybrid Cloud Workshop 
-## ATHENS 2022
-## Θερμό καλωσόρισμα
-### OpenShift and Hybrid Cloud Architecture Workshop for local RH Partners
+## LONDON 2022
+### OpenShift and Hybrid Cloud Architecture Workshop exclusive for Accenture UK
 ------------------------------------------------------------------------------------------------------------------------------
 
 link to Google https://meet.google.com/zcc-hdjy-dhz
@@ -10,7 +9,7 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 ## Agenda
 
-### Day 1 OpenShift Architecture (07.11.2022)
+### Day 1 OpenShift Architecture (05.12.2022)
 
 9:30	Welcome
 
@@ -18,11 +17,13 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 11:45	Break
 
-12:00	Tech deep dive Part 1 
+12:00	OpenShift I (DO180) - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314150  
 
 13:00	Lunch Break
 
-14:00	Tech deep dive Part 2
+14:00	OpenShift I (DO180) - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314150
+
+14:30 Installation
 
 15:30	Break
 
@@ -34,17 +35,17 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 9:00	OpenShift Virtualisation
 
-10:00	Developer Overview
+10:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
 11:00	Break
 
 11:15	OpenShift Security
 
-12:00	OpenShift - CI CD & GitOps Overview
+12:00	KNative Serverless and Quarkus
 
 13:00	Lunch Break
 
-14:00	Cloud Native  
+14:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
 15:30	Break
 
