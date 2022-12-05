@@ -33,9 +33,9 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 ### Day 2 OpenShift Archtiecture (6.12.2022)
 
-9:00	OpenShift Virtualisation
+9:30	OpenShift Virtualisation
 
-10:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
+10:15	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
 
 11:00	Break
 
