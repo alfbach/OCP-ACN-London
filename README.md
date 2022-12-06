@@ -39,13 +39,13 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 11:00	Break
 
-11:15	OpenShift Security
+11:15	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151
 
 12:00	KNative Serverless and Quarkus
 
 13:00	Lunch Break
 
-14:00	OpenShift Administration II (DO280) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314151 
+14:00	OpenShift Security
 
 15:30	Break
 
