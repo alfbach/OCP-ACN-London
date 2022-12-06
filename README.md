@@ -8,7 +8,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFcLHQd4BLtZCM/viewer?f=0
 
 ## Agenda
-
+all times ar UK (GMT) 
 ### Day 1 OpenShift Architecture (5.12.2022)
 
 9:30	Welcome
@@ -71,7 +71,9 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 13:00	Lunch Break
 
-14:00	ACM Foundation      - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
+14:00	AI / ML and Datasience by Eoin Crosbie
+
+15:00 ACM Foundation      - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
 
 16:00	BREAK
 
@@ -95,14 +97,16 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 13:00	BREAK (deploy ACS https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286)
 
-14:00	Advanced Container Security OV
+14:00	API Management with 3Scale by Eoin Crosbie
 
-14:30	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+14:45 Advanced Container Security OV
+
+15:45	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
 
 16:30	Break
 
 16:45	Conclusion / Next Steps
 
-17:15	End of the Day
+17:00	End of the Day
 
 opt. Homework Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
