@@ -71,7 +71,7 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 13:00	Lunch Break
 
-14:00	AI / ML and Datasience by Eoin Crosbie
+14:00	AI / ML and Data Sience by Eoin Crosbie
 
 15:00 ACM Foundation      - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670 
 
