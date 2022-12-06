@@ -109,4 +109,6 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 17:00	End of the Day
 
-opt. Homework Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+### Optional additional Training / Assessment 
+
+Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
