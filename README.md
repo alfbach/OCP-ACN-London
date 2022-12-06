@@ -8,7 +8,7 @@ link to Google https://meet.google.com/zcc-hdjy-dhz
 link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFcLHQd4BLtZCM/viewer?f=0
 
 ## Agenda
-all times ar UK (GMT) 
+all times in UK (GMT) 
 ### Day 1 OpenShift Architecture (5.12.2022)
 
 9:30	Welcome
