@@ -59,11 +59,11 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 ### Day 3 Open Hybrid Cloud Architecture (7.12.2022)
 
-9:00	Welcome
+9:30	Welcome
 
-9:15	Hybrid Cloud Intro
+9:50	Hybrid Cloud Intro
 
-10:00	Adv. Cluster Mgmt
+10:20	Adv. Cluster Mgmt
 
 11:00	Break
 
@@ -83,9 +83,9 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 ### Day 4 Open Hybrid Cloud Architecture (8.12.2022)
 
-9:00	Welcome 
+9:30	Welcome 
 
-9:15	OpenShift Data Foundation
+9:45	OpenShift Data Foundation
 
 10:00 High Availibility and Desaster Recovery
 
