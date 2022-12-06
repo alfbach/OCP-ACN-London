@@ -53,6 +53,10 @@ link to Jamboard https://jamboard.google.com/d/1qbcMTffBygDxoZE7ytwHn6zb4ra4OJFc
 
 17:30	OpenShift Administration II Assessment 
 
+### Optional additional Training / Assessment / Certification
+
+https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800093
+
 ### Day 3 Open Hybrid Cloud Architecture (7.12.2022)
 
 9:00	Welcome
