@@ -69,7 +69,9 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 11:15	GitOps & Argo CD
 
-13:00	Lunch Break
+12:30 Lunch Break
+
+13:30	Adv. Cluster mgmt cont
 
 14:00	AI / ML and Data Sience by Eoin Crosbie
 
