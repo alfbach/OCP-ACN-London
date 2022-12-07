@@ -114,3 +114,6 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 ### Optional additional Training / Assessment 
 
 Red Hat OpenShift Data Foundation for Technical Sales - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44843599
+
+Red Hat Cloud-Native Microservices Development with Quarkus (DO378) https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800096
+
