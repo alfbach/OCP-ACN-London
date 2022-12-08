@@ -87,7 +87,7 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 9:30	Welcome 
 
-9:45	OpenShift Data Foundation
+9:35	OpenShift Data Foundation
 
 10:00 High Availibility and Desaster Recovery
 
@@ -101,7 +101,7 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 14:00	API Management with 3Scale by Eoin Crosbie
 
-14:30 Advanced Container Security OV
+14:30 	Advanced Container Security OV
 
 15:15	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
 
