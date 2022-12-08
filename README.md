@@ -101,15 +101,14 @@ https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering
 
 14:00	API Management with 3Scale by Eoin Crosbie
 
-14:45 Advanced Container Security OV
+14:30 Advanced Container Security OV
 
-15:45	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+15:15	Hands On Red Hat ACS  - https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
 
-16:30	Break
+16:00	Conclusion / Next Steps
 
-16:45	Conclusion / Next Steps
-
-17:00	End of the Day
+16:15	End of the Day
+	
 
 ### Optional additional Training / Assessment 
 
